@@ -245,7 +245,7 @@ This is called the "post-app" or "agent-centric" web—where AI agents become th
 1. **Software Platform (Apps SDK & AgentKit):** Tools that let developers build applications and AI agents that run inside ChatGPT
 2. **Physical Infrastructure (Data Centers & Computing):** Massive investments in servers, chips, and connectivity to power AI at scale
 3. **Ecosystem Development (Partnerships & Developer Relations):** Attracting companies and developers to build on the platform
-
+                                         
 ### 2.2 Check the Basics
 
 **Remembering Questions:**
@@ -253,10 +253,14 @@ This is called the "post-app" or "agent-centric" web—where AI agents become th
 1. What does OS stand for, and what does it do?
    
    **Answer:** OS stands for Operating System. It manages computer hardware and provides services for applications, serving as an intermediary between applications and hardware.
+AN INTERFACE BETWEEN SOFTWARE AND HARDWARE.
 
 2. Name three tools OpenAI announced to support its platform vision.
    
    **Answer:** Apps SDK (for building applications inside ChatGPT), AgentKit (for building and deploying AI agents), and Agents SDK (the underlying framework for agent development).
+   1-APPS SDK
+   2-AGENTKIT
+   3-AGENTSDK
 
 3. What is Project Stargate?
    
