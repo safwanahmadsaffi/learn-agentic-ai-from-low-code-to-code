@@ -6,11 +6,11 @@
 
 **How to use this book**
 
-Each chapter follows the Panaversity Teaching Method inspired by the Schaum’s Outline series: a short theory primer, basic check‑in questions, many step‑by‑step solved problems, practice problems with answers at the end of the chapter, and stretch challenges. Remember the goal is to convert knowledge into intelligence by applying real world examples.
+Each chapter follows the Panaversity Teaching Method inspired by the Schaum’s Outline series: a short theory primer, basic check‑in questions, many step‑by‑step solved problems, practice problems with answers at the end of the chapter, and stretch challenges. Remember, the goal is to convert knowledge into intelligence by applying real-world examples.
 
 - **Teacher use**: Open with 2–3 check‑ins, model 1–2 worked examples, assign practice, then a brief reflection.
 - **Student use**: Skim the primer, answer check‑ins first, study 2–3 worked examples, then do practice and check answers.
-- **Time guide**: For each chapter 30 minute session, aim ~5 min check‑ins, 10 min examples, 10 min practice, ~3–5 min reflect.
+- **Time guide**: For each chapter, 30-minute session, aim ~5 min check‑ins, 10 min examples, 10 min practice, ~3–5 min reflect.
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -583,7 +583,7 @@ Developers should stay independent when:
 4. **Platform Risk:** Dependence on ChatGPT would be existential risk if terms change
 5. **Differentiated Experience:** The app offers a carefully designed experience that ChatGPT's general interface would diminish
 
-**Example:** A professional design tool like Adobe Photoshop—requires precise control, complex workflows, brand reputation matters, and the specific interface is core to the value proposition. Integration with ChatGPT might be useful (AI-assisted design features) but the primary experience should remain independent.
+**Example:** A professional design tool like Adobe Photoshop requires precise control, complex workflows, brand reputation matters, and the specific interface is core to the value proposition. Integration with ChatGPT might be useful (AI-assisted design features), but the primary experience should remain independent.
 
 **Strategic Recommendation:** Many businesses should pursue a hybrid approach—light integration with ChatGPT for discovery and basic features, while maintaining independent platforms for core, deep engagement. This provides optionality without excessive risk.
 
